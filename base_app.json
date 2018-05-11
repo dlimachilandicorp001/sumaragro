@@ -1,0 +1,692 @@
+{
+  "news": [
+    {
+      "title": "Noticia 1 Sobre SUMAR AGRO",
+      "subtitle": "Un mesaje mas largo sobre Sumar Agro",
+      "date": 12345678,
+      "tags": "Soya,Maiz,MAINTER,LANDICORP,SUMAR,SUMAR AGRO",
+      "message": "When you construct an intent, you must specify the action you want the intent to \"trigger.\" Android defines several actions, including ACTION_SEND which, as you can probably guess, indicates that the intent is sending data from one activity to another, even across process boundaries. To send data to another activity, all you need to do is specify the data and its type, the system will identify compatible receiving activities and display them to the user (if there are multiple options) or immediately start the activity (if there is only one option). Similarly, you can advertise the data types that your activities support receiving from other applications by specifying them in your manifest.",
+      "image": "nameofimage.jpg",
+      "icon": "nameofimage.jpg",
+      "url": "https://www.google.com/"
+    },
+    {
+      "title": "AGROINNOVA",
+      "subtitle": " UNa descripcion Larga de lo que se vivio en agroinnova",
+      "date": 12345678,
+      "tags": "Soya,Maiz,MAINTER,AGROINNOVA,SUMAR AGRO",
+      "message": "Nada que compartir, sin palabras para poder compartir por este medio ,\n Mas informacion ",
+      "image": "othername.jpg",
+      "icon": "nameofimage.jpg",
+      "url": "http://35.166.255.101:8070/web/login"
+    }
+  ],
+  "dashboard": {
+    "que_es_sumar": {
+      "title": "¿Que es SUMAR AGRO?",
+      "image": "que_es_sumar_agro.jpg",
+      "icon": "que_es_sumar",
+      "color": "#007caf",
+      "list": []
+    },
+    "sumar_puntos": {
+      "title": "¿Que es SUMAR PUNTOS?",
+      "image": "sumar_puntos.jpg",
+      "icon": "sumar_puntos",
+      "color": "#1e3f76",
+      "list": []
+    },
+    "contacto": {
+      "title": "CONTACTO",
+      "image": "",
+      "icon": "contacto",
+      "color": "#007caf",
+      "list": []
+    },
+    "sumar_productos": {
+      "title": "SUMAR PRODUCTOS",
+      "image": "",
+      "icon": "sumar_productos",
+      "color": "#1e3f76",
+      "list": [
+        {
+          "catalogo_de_productos": {
+            "title": "CATALOGO DE PRODUCTOS",
+            "image": "sumar_productos_catalogo_de_productos.jpg",
+            "icon": "sumar_productos_catalogo",
+            "color": "#1e3f76",
+            "list": []
+          },
+          "sumar_soya": {
+            "title": "SUMAR MAS SOYA",
+            "image": "sumar_productos_sumar_mas_soya.jpg",
+            "icon": "ic_sumar_productos_sumar_soya",
+            "color": "#1e3f76",
+            "list": []
+          },
+          "sumar_trigo": {
+            "title": "SUMAR MAS TRIGO",
+            "image": "",
+            "icon": "ic_sumar_productos_trigo",
+            "color": "#1e3f76",
+            "list": []
+          },
+          "sumar_maiz": {
+            "title": "SUMAR MAS MAIZ",
+            "image": "sumar_productos_maiz_infografia.jpg",
+            "icon": "ic_sumar_productos_maiz",
+            "color": "#1e3f76",
+            "list": []
+          },
+          "sumar_cana": {
+            "title": "SUMAR MAS CAÑA",
+            "image": "",
+            "icon": "ic_sumar_productos_cana",
+            "color": "#1e3f76",
+            "list": []
+          },
+          "folletos": {
+            "title": "Folletos",
+            "image": "",
+            "icon": "sumar_productos_folletos",
+            "color": "#1e3f76",
+            "list": [
+              {
+                "GARDO": {
+                  "title": "GARDO",
+                  "image": "sumar_producto_folleto_gardo.jpg",
+                  "icon": "sumar_producto_folleto_gardo_icono",
+                  "color": "#1e3f76"
+                },
+                "LIMPOX": {
+                  "title": "LIMPOX",
+                  "image": "sumar_producto_folleto_limpox.jpg",
+                  "icon": "sumar_producto_folleto_limpox_icono",
+                  "color": "#1e3f76"
+                },
+                "PARALLEL PLUS": {
+                  "title": "PARALLEL PLUS",
+                  "image": "sumar_producto_folleto_parallel_plus.jpg",
+                  "icon": "sumar_producto_folleto_parallel_plus_icono",
+                  "color": "#1e3f76"
+                },
+                "RIMON FAST": {
+                  "title": "RIMON FAST",
+                  "image": "sumar_producto_folleto_rimon_fast.jpg",
+                  "icon": "sumar_producto_folleto_rimon_fast_icono",
+                  "color": "#1e3f76"
+                },
+                "Galil": {
+                  "title": "Galil",
+                  "image": "sumar_producto_folleto_galil.jpg",
+                  "icon": "sumar_producto_folleto_galil_icono",
+                  "color": "#1e3f76"
+                },
+                "Pledge": {
+                  "title": "Pledge",
+                  "image": "sumar_producto_folleto_pledge.jpg",
+                  "icon": "sumar_producto_folleto_pledge_icono",
+                  "color": "#1e3f76"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "sumar_encuentros": {
+      "title": "SUMAR ENCUENTROS",
+      "image": "",
+      "icon": "sumar_encuentros",
+      "color": "#1e3f76",
+      "list": [
+        {
+          "agroinnova": {
+            "title": "AGROINNOVA",
+            "image": "sumar_encuentros_afiche_agroinnova.JPG",
+            "icon": "sumar_encuentro_agroinnova",
+            "color": "#1e3f76",
+            "list": []
+          },
+          "charla_tecnica": {
+            "title": "CHARLA TECNICA",
+            "image": "sumar_encuentros_charla_tecnica.jpg",
+            "icon": "sumar_encuentro_charla",
+            "color": "#1e3f76",
+            "list": []
+          },
+          "encuentro": {
+            "title": "ENCUENTRO",
+            "image": "sumar_encuentros_minuto_campo.jpg",
+            "icon": "sumar_encuentro_campo",
+            "color": "#1e3f76",
+            "list": []
+          }
+        }
+      ]
+    },
+    "sumar_conocimiento": {
+      "title": "SUMAR CONOCIMIENTO",
+      "image": "",
+      "icon": "sumar_conocimiento",
+      "color": "#1e3f76",
+      "list": [
+        {
+          "sanidad": {
+            "title": "SANIDAD",
+            "image": "",
+            "icon": "con_sanidad",
+            "color": "#009DD6",
+            "list": [
+              {
+                "soya": {
+                  "roya_asiatica": {
+                    "title": "Roya Asiática",
+                    "subtitle": "Phakopsora pachyrhizi",
+                    "image": "",
+                    "imageCaracteristica": "san_soya_roya_asia_caract.jpg",
+                    "imageTips": "san_soya_enfer_tips.jpg",
+                    "imageProductoRecomendado": "san_soya_enfer_producto_recom.jpg",
+                    "icon": "san_soya_roya",
+                    "color": "#009DD6",
+                    "list": []
+                  },
+                  "mancha_anillada": {
+                    "title": "Mancha Anillada",
+                    "subtitle": "Corynespora cassicola",
+                    "image": "",
+                    "imageCaracteristica": "san_soya_mancha_ani_caract.jpg",
+                    "imageTips": "san_soya_enfer_tips.jpg",
+                    "imageProductoRecomendado": "san_soya_enfer_producto_recom.jpg",
+                    "icon": "san_soya_mancha_anillada",
+                    "color": "#009DD6",
+                    "list": []
+                  },
+                  "mancha_parda": {
+                    "title": "Mancha Parda",
+                    "subtitle": "Septoria glycines",
+                    "image": "",
+                    "imageCaracteristica": "san_soya_mancha_parda_caract.jpg",
+                    "imageTips": "san_soya_enfer_tips.jpg",
+                    "imageProductoRecomendado": "san_soya_enfer_producto_recom.jpg",
+                    "icon": "san_soya_septoria",
+                    "color": "#009DD6",
+                    "list": []
+                  },
+                  "mancha_purpura": {
+                    "title": "Mancha Purpura",
+                    "subtitle": "Cercospora kikuchii",
+                    "image": "",
+                    "imageCaracteristica": "san_soya_mancha_purp_caract.jpg",
+                    "imageTips": "san_soya_enfer_tips.jpg",
+                    "imageProductoRecomendado": "san_soya_enfer_producto_recom.jpg",
+                    "icon": "san_soya_mancha_purpura",
+                    "color": "#009DD6",
+                    "list": []
+                  }
+                },
+                "cana": {
+                  "roya": {
+                    "title": "Roya",
+                    "subtitle": "Puccinia melanocepgala",
+                    "image": "",
+                    "imageCaracteristica": "sanidad_cana_roya_caracteristicas.jpg",
+                    "imageTips": "sanidad_cana_roya_tips.jpg",
+                    "imageProductoRecomendado": "sanidad_cana_roya_recomendaciones.jpg",
+                    "icon": "ic_sanidad_cana_roya",
+                    "color": "#009DD6",
+                    "list": []
+                  }
+                },
+                "maiz": {
+                  "roya": {
+                    "title": "Roya de la hoja",
+                    "subtitle": "Puccinia sorghi",
+                    "image": "",
+                    "imageCaracteristica": "sanidad_maiz_roya_de_la_hoja_caracteristicas.jpg",
+                    "imageTips": "sanidad_maiz_roya_de_la_hoja_tips.jpg",
+                    "imageProductoRecomendado": "sanidad_maiz_roya_de_la_hoja_recomendaciones.jpg",
+                    "icon": "ic_sanidad_maiz_roya_de_la_hoja",
+                    "color": "#009DD6",
+                    "list": []
+                  }
+                },
+                "trigo": {
+                  "helmintosporiosis": {
+                    "title": "Helmintosporiosis",
+                    "subtitle": "Bipolaris sorokiniana",
+                    "image": "",
+                    "imageCaracteristica": "sanidad_trigo_enfermedades_caracteristicas_helmintosporiosis.jpg",
+                    "imageTips": "sanidad_trigo_enfermedades_helmintosporiosis_tips.jpg",
+                    "imageProductoRecomendado": "sanidad_trigo_enfermedades_helmintosporiosis_recomendaciones.jpg",
+                    "icon": "sanidad_trigo_helmintosporiosis",
+                    "color": "#009DD6",
+                    "list": []
+                  },
+                  "piricularia": {
+                    "title": "Piricularia",
+                    "subtitle": "Pyricularia grisea",
+                    "image": "",
+                    "imageCaracteristica": "sanidad_trigo_enfermedades_caracteristicas_piricularia.jpg",
+                    "imageTips": "sanidad_trigo_enfermedades_helmintosporiosis_tips.jpg",
+                    "imageProductoRecomendado": "sanidad_trigo_enfermedades_helmintosporiosis_recomendaciones.jpg",
+                    "icon": "sanidad_trigo_piricularia",
+                    "color": "#009DD6",
+                    "list": []
+                  },
+                  "roya": {
+                    "title": "Roya de la hoja",
+                    "subtitle": "Puccinia triticina",
+                    "image": "",
+                    "imageCaracteristica": "sanidad_trigo_enfermedades_caracteristicas_roya.jpg",
+                    "imageTips": "sanidad_trigo_enfermedades_helmintosporiosis_tips.jpg",
+                    "imageProductoRecomendado": "sanidad_trigo_enfermedades_helmintosporiosis_recomendaciones.jpg",
+                    "icon": "sanidad_trigo_roya",
+                    "color": "#009DD6",
+                    "list": []
+                  }
+                }
+              }
+            ]
+          },
+          "control": {
+            "title": "CONTROL",
+            "image": "",
+            "icon": "con_control",
+            "color": "#A21F80",
+            "list": [
+              {
+                "soya": {
+                  "falso_medidor": {
+                    "title": "Falso Medidor",
+                    "subtitle": "Pseudoplusia includens",
+                    "image": "",
+                    "imageCaracteristica": "control_soya_plagas_caracteristicas_falso_medidor.jpg",
+                    "imageTips": "control_soya_plagas_tips_gusanos.jpg",
+                    "imageProductoRecomendado": "control_soya_plagas_recomendaciones_lepidoptero.jpg",
+                    "icon": "control_soya_plagas_dichelops_falso_medidor_foto",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "mosca_blanca": {
+                    "title": "Mosca Blanca",
+                    "subtitle": "Bemisia tabaci",
+                    "image": "",
+                    "imageCaracteristica": "control_soya_plagas_caracteristicas_mosca_blanca.jpg",
+                    "imageTips": "control_soya_plagas_tips_mosca_blanca.jpg",
+                    "imageProductoRecomendado": "control_soya_plagas_recomendaciones_mosca_blanca.jpg",
+                    "icon": "control_soya_plagas_mosca_blanca_foto",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "pegador_de_hojas": {
+                    "title": "Pegador de Hoja",
+                    "subtitle": "Omiodes indicata",
+                    "image": "",
+                    "imageCaracteristica": "control_soya_plagas_caracteristicas_pegador_de_hojas.jpg",
+                    "imageTips": "control_soya_plagas_tips_gusanos.jpg",
+                    "imageProductoRecomendado": "control_soya_plagas_recomendaciones_lepidoptero.jpg",
+                    "icon": "control_soya_plagas_pegador_de_hojas_foto",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "spodoptera": {
+                    "title": "Spodoptera",
+                    "subtitle": "Spodoptera eridania",
+                    "image": "",
+                    "imageCaracteristica": "control_soya_plagas_caracteristicas_spodoptera.jpg",
+                    "imageTips": "control_soya_plagas_tips_gusanos.jpg",
+                    "imageProductoRecomendado": "control_soya_plagas_recomendaciones_lepidoptero.jpg",
+                    "icon": "control_soya_plagas_spodoptera_foto",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "trips": {
+                    "title": "Trips",
+                    "subtitle": "Caliothrips phaseoli",
+                    "image": "",
+                    "imageCaracteristica": "control_soya_plagas_caracteristicas_trips.jpg",
+                    "imageTips": "control_soya_plagas_tips_trips.jpg",
+                    "imageProductoRecomendado": "control_soya_plagas_recomendaciones_trips.jpg",
+                    "icon": "control_soya_plagas_trips_foto",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "acaros": {
+                    "title": "Ácaros",
+                    "subtitle": "Tetranichus urticae y Mononychellus planki",
+                    "image": "",
+                    "imageCaracteristica": "control_soya_plagas_caracteristicas_acaros.jpg",
+                    "imageTips": "control_soya_plagas_tips_aranuela.jpg",
+                    "imageProductoRecomendado": "",
+                    "icon": "control_soya_plagas_acaros_foto",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "chinche_alas_cafe": {
+                    "title": "Chinche alas café",
+                    "subtitle": "Edessa meditabunda",
+                    "image": "",
+                    "imageCaracteristica": "control_soya_plagas_caracteristicas_chinche_alas_cafe.jpg",
+                    "imageTips": "control_soya_plagas_tips_chinche.jpg",
+                    "imageProductoRecomendado": "control_soya_plagas_recomendaciones_chinches.jpg",
+                    "icon": "control_soya_plagas_chinche_alas_cafe_foto",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "chinche_cafe_marron": {
+                    "title": "Chinche café o marrón",
+                    "subtitle": "Euschistus heros",
+                    "image": "",
+                    "imageCaracteristica": "control_soya_plagas_caracteristicas_chinche_cafe.jpg",
+                    "imageTips": "control_soya_plagas_tips_chinche.jpg",
+                    "imageProductoRecomendado": "control_soya_plagas_recomendaciones_chinches.jpg",
+                    "icon": "control_soya_plagas_chinche_cafe_foto",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "chinche_panza_verde": {
+                    "title": "Chinche panza verde",
+                    "subtitle": "Dichelops furcatus",
+                    "image": "",
+                    "imageCaracteristica": "control_soya_plagas_caracteristicas_chinche_panza_verde.jpg",
+                    "imageTips": "control_soya_plagas_tips_chinche.jpg",
+                    "imageProductoRecomendado": "control_soya_plagas_recomendaciones_chinches.jpg",
+                    "icon": "control_soya_plagas_chinche_panza_verde_foto",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "chinche_verde": {
+                    "title": "Chinche verde",
+                    "subtitle": "Piezodorus guildinii",
+                    "image": "",
+                    "imageCaracteristica": "control_soya_plagas_caracteristicas_chinche_verde.jpg",
+                    "imageTips": "control_soya_plagas_tips_chinche.jpg",
+                    "imageProductoRecomendado": "control_soya_plagas_recomendaciones_chinches.jpg",
+                    "icon": "control_soya_plagas_chinche_verde_foto",
+                    "color": "#A21F80",
+                    "list": []
+                  }
+                },
+                "cana": {
+                  "gusano_barrenador": {
+                    "title": "Gusano barrenador",
+                    "subtitle": "Diatraea saccharalis",
+                    "image": "",
+                    "imageCaracteristica": "control_cana_gusano_barrenador_caract.jpg",
+                    "imageTips": "control_cana_gusano_barrenador_tips.jpg",
+                    "imageProductoRecomendado": "control_cana_gusano_barrenador_recomendaciones.jpg",
+                    "icon": "ic_control_cana_plagas_barrenador",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "picudo": {
+                    "title": "Picudo",
+                    "subtitle": "Metanasius hemipterus (L. 1765)",
+                    "image": "",
+                    "imageCaracteristica": "control_cana_picudo_caract.jpg",
+                    "imageTips": "control_cana_picudo_tips.jpg",
+                    "imageProductoRecomendado": "control_cana_picudo_recomendaciones.jpg",
+                    "icon": "ic_control_cana_plagas_chinche_picudo",
+                    "color": "#A21F80",
+                    "list": []
+                  }
+                },
+                "maiz": {
+                  "gusano_cortador": {
+                    "title": "Gusano cortador",
+                    "subtitle": "Agrotis opsilon",
+                    "image": "",
+                    "imageCaracteristica": "control_maiz_gusano_cortador_caract.jpg",
+                    "imageTips": "control_maiz_gusano_cortador_tips.jpg",
+                    "imageProductoRecomendado": "control_maiz_gusano_cortador_recomendaciones.jpg",
+                    "icon": "ic_control_maiz_gusano_cortador",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "chinche_cuernos": {
+                    "title": "Chinche de los cuernos",
+                    "subtitle": "Dichelops furcatus",
+                    "image": "",
+                    "imageCaracteristica": "control_maiz_chinche_de_los_cuernos_caract.jpg",
+                    "imageTips": "control_maiz_chinche_de_los_cuernos_tips.jpg",
+                    "imageProductoRecomendado": "control_maiz_chinche_de_los_cuernos_recomendaciones.jpg",
+                    "icon": "ic_control_maiz_plagas_chinche_de_los_cuernos",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "gusano_cogollero": {
+                    "title": "Gusano cogollero",
+                    "subtitle": "Spodoptera frugiperda",
+                    "image": "",
+                    "imageCaracteristica": "control_maiz_gusano_cogollero_caract.jpg",
+                    "imageTips": "control_maiz_gusano_cogollero_tips.jpg",
+                    "imageProductoRecomendado": "control_maiz_gusano_cogollero_recomendaciones.jpg",
+                    "icon": "ic_control_maiz_plagas_gusano_cogollero",
+                    "color": "#A21F80",
+                    "list": []
+                  }
+                },
+                "trigo": {
+                  "barrenador": {
+                    "title": "Barrenador",
+                    "subtitle": "Diatraea saccharalis",
+                    "image": "",
+                    "imageCaracteristica": "control_trigo_gusano_barrenador_tips.jpg",
+                    "imageTips": "control_trigo_gusano_barrenador_tips.jpg",
+                    "imageProductoRecomendado": "control_trigo_gusano_barrenador_recomendaciones.jpg",
+                    "icon": "control_trigo_plagas_barrenador",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "gusano_cogollero": {
+                    "title": "Gusano cogollero",
+                    "subtitle": "Spodoptera frugiperda",
+                    "image": "",
+                    "imageCaracteristica": "control_trigo_plagas_gusano_cogollero_caracteristicas.jpg",
+                    "imageTips": "control_trigo_gusano_cogollero_tips.jpg",
+                    "imageProductoRecomendado": "control_trigo_gusano_cogollero_recomendaciones.jpg",
+                    "icon": "control_trigo_plagas_gusanocogollero",
+                    "color": "#A21F80",
+                    "list": []
+                  },
+                  "pulgon": {
+                    "title": "Pulgon verde de los cereales",
+                    "subtitle": "Schizaphis graminum",
+                    "image": "",
+                    "imageCaracteristica": "control_trigo_plagas_caracteristicas_pulgon.jpg",
+                    "imageTips": "control_trigo_pulgones_tips.jpg",
+                    "imageProductoRecomendado": "control_trigo_pulgones_recomendaciones.jpg",
+                    "icon": "control_trigo_plagas_pulgon",
+                    "color": "#A21F80",
+                    "list": []
+                  }
+                }
+              }
+            ]
+          },
+          "estrategia": {
+            "title": "ESTRATEGIA",
+            "image": "",
+            "icon": "con_estrategia",
+            "color": "#94BF52",
+            "list": [
+              {
+                "hierba_caliente": {
+                  "title": "Hierba Caliente",
+                  "subtitle": "Diodia sp",
+                  "image": "",
+                  "imageCaracteristica": "estrategia_malezas_caracteristicas_hierba_caliente.jpg",
+                  "imageProductoRecomendado": "estrategia_malezas_recomendaciones_hierba_caliente.jpg",
+                  "imageTips": "",
+                  "icon": "estrategia_malezas_hierba_caliente_foto",
+                  "color": "#94BF52",
+                  "list": []
+                },
+                "maicillo": {
+                  "title": "Maicillo",
+                  "subtitle": "Sorghum sudanense",
+                  "image": "",
+                  "imageCaracteristica": "estrategia_malezas_caracteristicas_maicillo.jpg",
+                  "imageTips": "estrategia_malezas_tips_maicillo.jpg",
+                  "imageProductoRecomendado": "estrategia_malezas_recomendaciones_maicillo.jpg",
+                  "icon": "estrategia_malezas_maicillo_foto",
+                  "color": "#94BF52",
+                  "list": []
+                },
+                "orizaha": {
+                  "title": "Orizaha",
+                  "subtitle": "Digitarias insularis",
+                  "image": "",
+                  "imageCaracteristica": "estrategia_malezas_caracteristicas_orizaha.jpg",
+                  "imageTips": "estrategia_malezas_tips_orizaha.jpg",
+                  "imageProductoRecomendado": "estrategia_malezas_recomendaciones_orizaha.jpg",
+                  "icon": "estrategia_malezas_orizaha_foto",
+                  "color": "#94BF52",
+                  "list": []
+                },
+                "pata_gallo": {
+                  "title": "Pata de gallo",
+                  "subtitle": "Eleusine indica (I) gaertn",
+                  "image": "",
+                  "imageCaracteristica": "estrategia_malezas_caracteristicas_pata_de_gallo.jpg",
+                  "imageTips": "estrategia_malezas_tips_pata_de_gallo.jpg",
+                  "imageProductoRecomendado": "estrategia_malezas_recomendaciones_gallo.jpg",
+                  "icon": "estrategia_malezas_pata_de_gallo_foto",
+                  "color": "#94BF52",
+                  "list": []
+                },
+                "santa_lucia": {
+                  "title": "Santa Lucia",
+                  "subtitle": "Commelina benghalensis",
+                  "image": "",
+                  "imageCaracteristica": "estrategia_malezas_caracteristicas_santa_lucia.jpg",
+                  "imageTips": "estrategia_malezas_tips_santa_lucia.jpg",
+                  "imageProductoRecomendado": "estrategia_malezas_recomendaciones_santa_lucia.jpg",
+                  "icon": "estrategia_malezas_santa_lucia_foto",
+                  "color": "#94BF52",
+                  "list": []
+                },
+                "plumilla": {
+                  "title": "Plumilla",
+                  "subtitle": "Chenopodium album",
+                  "image": "",
+                  "imageCaracteristica": "estrategia_malezas_caracteristicas_plumilla.jpg",
+                  "imageTips": "",
+                  "imageProductoRecomendado": "",
+                  "icon": "estrategia_malezas_plumilla_foto",
+                  "color": "#94BF52",
+                  "list": []
+                }
+              }
+            ]
+          },
+          "nutricion_vegetal": {
+            "title": "NUTRICION VEGETAL",
+            "image": "sumar_encuentros_minuto_campo.jpg",
+            "icon": "con_nutricion",
+            "color": "#F49D00",
+            "list": [
+              {
+                "que_es_la_nutricion": {
+                  "title": "¿Que es la nutricion vegetal?",
+                  "image": "nutricion_vegetal_que_es_la_nutricion_vegetal.jpg",
+                  "icon": "",
+                  "color": "#F49D00",
+                  "list": []
+                },
+                "nutrientes": {
+                  "title": "Nutrientes",
+                  "image": "",
+                  "icon": "",
+                  "color": "#F49D00",
+                  "list": [
+                    {
+                      "boro": {
+                        "title": "Boro",
+                        "image": "sumar_conocimiento_nutricion_nutrientes_boro.jpg",
+                        "icon": "",
+                        "color": "#F49D00",
+                        "list": []
+                      },
+                      "cobre": {
+                        "title": "Cobre",
+                        "image": "sumar_conocimiento_nutricion_nutrientes_cobre.jpg",
+                        "icon": "",
+                        "color": "#F49D00",
+                        "list": []
+                      },
+                      "fosforo": {
+                        "title": "Fosforo",
+                        "image": "sumar_conocimiento_nutricion_nutrientes_fosforo.jpg",
+                        "icon": "",
+                        "color": "#F49D00",
+                        "list": []
+                      },
+                      "manganeso": {
+                        "title": "Manganeso",
+                        "image": "sumar_conocimiento_nutricion_nutrientes_manganeso.jpg",
+                        "icon": "",
+                        "color": "#F49D00",
+                        "list": []
+                      },
+                      "malibdeno": {
+                        "title": "Molibdeno (Mo)",
+                        "image": "sumar_conocimiento_nutricion_nutrientes_molibdeno.jpg",
+                        "icon": "",
+                        "color": "#F49D00",
+                        "list": []
+                      },
+                      "nitrogeno": {
+                        "title": "Nitrogeno",
+                        "image": "sumar_conocimiento_nutricion_nutrientes_nitrogeno.jpg",
+                        "icon": "",
+                        "color": "#F49D00",
+                        "list": []
+                      },
+                      "potasio": {
+                        "title": "Potasio",
+                        "image": "sumar_conocimiento_nutricion_nutrientes_potasio.jpg",
+                        "icon": "",
+                        "color": "#F49D00",
+                        "list": []
+                      },
+                      "zinc": {
+                        "title": "Zinc",
+                        "image": "sumar_conocimiento_nutricion_nutrientes_zinc.jpg",
+                        "icon": "",
+                        "color": "#F49D00",
+                        "list": []
+                      }
+                    }
+                  ]
+                },
+                "plan_pre_forte": {
+                  "title": "Plan pre forte",
+                  "image": "nutricion_vegetal_plan_pre_forte.jpg",
+                  "icon": "",
+                  "color": "#F49D00",
+                  "list": []
+                },
+                "producto_recomendado": {
+                  "title": "Producto recomendado",
+                  "image": "nutricion_vegetal_productos_recomendados.jpg",
+                  "icon": "",
+                  "color": "#F49D00",
+                  "list": []
+                }
+              }
+            ]
+          },
+          "potencia_inicial": {
+            "title": "POTENCIA INICIAL",
+            "image": "sumar_conocimiento_potencia_inicial.jpg",
+            "icon": "con_potencia_inicial",
+            "color": "#4B4B4D",
+            "list": []
+          }
+        }
+      ]
+    }
+  }
+}
