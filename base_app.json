@@ -1,32 +1,11 @@
 {
-  "news": [
-    {
-      "title": "Noticia 1 Sobre SUMAR AGRO",
-      "subtitle": "Un mesaje mas largo sobre Sumar Agro",
-      "date": 12345678,
-      "tags": "Soya,Maiz,MAINTER,LANDICORP,SUMAR,SUMAR AGRO",
-      "message": "When you construct an intent, you must specify the action you want the intent to \"trigger.\" Android defines several actions, including ACTION_SEND which, as you can probably guess, indicates that the intent is sending data from one activity to another, even across process boundaries. To send data to another activity, all you need to do is specify the data and its type, the system will identify compatible receiving activities and display them to the user (if there are multiple options) or immediately start the activity (if there is only one option). Similarly, you can advertise the data types that your activities support receiving from other applications by specifying them in your manifest.",
-      "image": "nameofimage.jpg",
-      "icon": "nameofimage.jpg",
-      "url": "https://www.google.com/"
-    },
-    {
-      "title": "AGROINNOVA",
-      "subtitle": " UNa descripcion Larga de lo que se vivio en agroinnova",
-      "date": 12345678,
-      "tags": "Soya,Maiz,MAINTER,AGROINNOVA,SUMAR AGRO",
-      "message": "Nada que compartir, sin palabras para poder compartir por este medio ,\n Mas informacion ",
-      "image": "othername.jpg",
-      "icon": "nameofimage.jpg",
-      "url": "http://35.166.255.101:8070/web/login"
-    }
-  ],
   "dashboard": {
     "que_es_sumar": {
       "title": "¿Que es SUMAR AGRO?",
       "image": "que_es_sumar_agro.jpg",
       "icon": "que_es_sumar",
       "color": "#007caf",
+      "version": 1,
       "list": []
     },
     "sumar_puntos": {
@@ -34,6 +13,7 @@
       "image": "sumar_puntos.jpg",
       "icon": "sumar_puntos",
       "color": "#1e3f76",
+      "version": 1,
       "list": []
     },
     "contacto": {
@@ -41,6 +21,7 @@
       "image": "",
       "icon": "contacto",
       "color": "#007caf",
+      "version": 1,
       "list": []
     },
     "sumar_productos": {
@@ -48,6 +29,7 @@
       "image": "",
       "icon": "sumar_productos",
       "color": "#1e3f76",
+      "version": 1,
       "list": [
         {
           "catalogo_de_productos": {
@@ -55,6 +37,7 @@
             "image": "sumar_productos_catalogo_de_productos.jpg",
             "icon": "sumar_productos_catalogo",
             "color": "#1e3f76",
+            "version": 1,
             "list": []
           },
           "sumar_soya": {
@@ -62,6 +45,7 @@
             "image": "sumar_productos_sumar_mas_soya.jpg",
             "icon": "ic_sumar_productos_sumar_soya",
             "color": "#1e3f76",
+            "version": 1,
             "list": []
           },
           "sumar_trigo": {
@@ -69,6 +53,7 @@
             "image": "",
             "icon": "ic_sumar_productos_trigo",
             "color": "#1e3f76",
+            "version": 1,
             "list": []
           },
           "sumar_maiz": {
@@ -76,6 +61,7 @@
             "image": "sumar_productos_maiz_infografia.jpg",
             "icon": "ic_sumar_productos_maiz",
             "color": "#1e3f76",
+            "version": 1,
             "list": []
           },
           "sumar_cana": {
@@ -83,6 +69,7 @@
             "image": "",
             "icon": "ic_sumar_productos_cana",
             "color": "#1e3f76",
+            "version": 1,
             "list": []
           },
           "folletos": {
@@ -90,43 +77,50 @@
             "image": "",
             "icon": "sumar_productos_folletos",
             "color": "#1e3f76",
+            "version": 1,
             "list": [
               {
                 "GARDO": {
                   "title": "GARDO",
                   "image": "sumar_producto_folleto_gardo.jpg",
                   "icon": "sumar_producto_folleto_gardo_icono",
-                  "color": "#1e3f76"
+                  "color": "#1e3f76",
+                  "version": 1
                 },
                 "LIMPOX": {
                   "title": "LIMPOX",
                   "image": "sumar_producto_folleto_limpox.jpg",
                   "icon": "sumar_producto_folleto_limpox_icono",
-                  "color": "#1e3f76"
+                  "color": "#1e3f76",
+                  "version": 1
                 },
                 "PARALLEL PLUS": {
                   "title": "PARALLEL PLUS",
                   "image": "sumar_producto_folleto_parallel_plus.jpg",
                   "icon": "sumar_producto_folleto_parallel_plus_icono",
-                  "color": "#1e3f76"
+                  "color": "#1e3f76",
+                  "version": 1
                 },
                 "RIMON FAST": {
                   "title": "RIMON FAST",
                   "image": "sumar_producto_folleto_rimon_fast.jpg",
                   "icon": "sumar_producto_folleto_rimon_fast_icono",
-                  "color": "#1e3f76"
+                  "color": "#1e3f76",
+                  "version": 1
                 },
                 "Galil": {
                   "title": "Galil",
                   "image": "sumar_producto_folleto_galil.jpg",
                   "icon": "sumar_producto_folleto_galil_icono",
-                  "color": "#1e3f76"
+                  "color": "#1e3f76",
+                  "version": 1
                 },
                 "Pledge": {
                   "title": "Pledge",
                   "image": "sumar_producto_folleto_pledge.jpg",
                   "icon": "sumar_producto_folleto_pledge_icono",
-                  "color": "#1e3f76"
+                  "color": "#1e3f76",
+                  "version": 1
                 }
               }
             ]
@@ -139,6 +133,7 @@
       "image": "",
       "icon": "sumar_encuentros",
       "color": "#1e3f76",
+      "version": 1,
       "list": [
         {
           "agroinnova": {
@@ -146,6 +141,7 @@
             "image": "sumar_encuentros_afiche_agroinnova.JPG",
             "icon": "sumar_encuentro_agroinnova",
             "color": "#1e3f76",
+            "version": 1,
             "list": []
           },
           "charla_tecnica": {
@@ -153,6 +149,7 @@
             "image": "sumar_encuentros_charla_tecnica.jpg",
             "icon": "sumar_encuentro_charla",
             "color": "#1e3f76",
+            "version": 1,
             "list": []
           },
           "encuentro": {
@@ -160,6 +157,7 @@
             "image": "sumar_encuentros_minuto_campo.jpg",
             "icon": "sumar_encuentro_campo",
             "color": "#1e3f76",
+            "version": 1,
             "list": []
           }
         }
@@ -170,6 +168,7 @@
       "image": "",
       "icon": "sumar_conocimiento",
       "color": "#1e3f76",
+      "version": 1,
       "list": [
         {
           "sanidad": {
@@ -177,6 +176,7 @@
             "image": "",
             "icon": "con_sanidad",
             "color": "#009DD6",
+            "version": 1,
             "list": [
               {
                 "soya": {
@@ -189,6 +189,7 @@
                     "imageProductoRecomendado": "san_soya_enfer_producto_recom.jpg",
                     "icon": "san_soya_roya",
                     "color": "#009DD6",
+                    "version": 1,
                     "list": []
                   },
                   "mancha_anillada": {
@@ -200,6 +201,7 @@
                     "imageProductoRecomendado": "san_soya_enfer_producto_recom.jpg",
                     "icon": "san_soya_mancha_anillada",
                     "color": "#009DD6",
+                    "version": 1,
                     "list": []
                   },
                   "mancha_parda": {
@@ -211,6 +213,7 @@
                     "imageProductoRecomendado": "san_soya_enfer_producto_recom.jpg",
                     "icon": "san_soya_septoria",
                     "color": "#009DD6",
+                    "version": 1,
                     "list": []
                   },
                   "mancha_purpura": {
@@ -222,19 +225,21 @@
                     "imageProductoRecomendado": "san_soya_enfer_producto_recom.jpg",
                     "icon": "san_soya_mancha_purpura",
                     "color": "#009DD6",
+                    "version": 1,
                     "list": []
                   }
                 },
                 "cana": {
                   "roya": {
                     "title": "Roya",
-                    "subtitle": "Puccinia melanocepgala",
+                    "subtitle": "Puccinia melanocephala",
                     "image": "",
                     "imageCaracteristica": "sanidad_cana_roya_caracteristicas.jpg",
                     "imageTips": "sanidad_cana_roya_tips.jpg",
                     "imageProductoRecomendado": "sanidad_cana_roya_recomendaciones.jpg",
                     "icon": "ic_sanidad_cana_roya",
                     "color": "#009DD6",
+                    "version": 1,
                     "list": []
                   }
                 },
@@ -248,6 +253,7 @@
                     "imageProductoRecomendado": "sanidad_maiz_roya_de_la_hoja_recomendaciones.jpg",
                     "icon": "ic_sanidad_maiz_roya_de_la_hoja",
                     "color": "#009DD6",
+                    "version": 1,
                     "list": []
                   }
                 },
@@ -261,6 +267,7 @@
                     "imageProductoRecomendado": "sanidad_trigo_enfermedades_helmintosporiosis_recomendaciones.jpg",
                     "icon": "sanidad_trigo_helmintosporiosis",
                     "color": "#009DD6",
+                    "version": 1,
                     "list": []
                   },
                   "piricularia": {
@@ -272,6 +279,7 @@
                     "imageProductoRecomendado": "sanidad_trigo_enfermedades_helmintosporiosis_recomendaciones.jpg",
                     "icon": "sanidad_trigo_piricularia",
                     "color": "#009DD6",
+                    "version": 1,
                     "list": []
                   },
                   "roya": {
@@ -283,6 +291,7 @@
                     "imageProductoRecomendado": "sanidad_trigo_enfermedades_helmintosporiosis_recomendaciones.jpg",
                     "icon": "sanidad_trigo_roya",
                     "color": "#009DD6",
+                    "version": 1,
                     "list": []
                   }
                 }
@@ -294,18 +303,20 @@
             "image": "",
             "icon": "con_control",
             "color": "#A21F80",
+            "version": 1,
             "list": [
               {
                 "soya": {
                   "falso_medidor": {
                     "title": "Falso Medidor",
-                    "subtitle": "Pseudoplusia includens",
+                    "subtitle": "Chrydeixis includens",
                     "image": "",
                     "imageCaracteristica": "control_soya_plagas_caracteristicas_falso_medidor.jpg",
                     "imageTips": "control_soya_plagas_tips_gusanos.jpg",
                     "imageProductoRecomendado": "control_soya_plagas_recomendaciones_lepidoptero.jpg",
                     "icon": "control_soya_plagas_dichelops_falso_medidor_foto",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "mosca_blanca": {
@@ -317,6 +328,7 @@
                     "imageProductoRecomendado": "control_soya_plagas_recomendaciones_mosca_blanca.jpg",
                     "icon": "control_soya_plagas_mosca_blanca_foto",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "pegador_de_hojas": {
@@ -328,6 +340,7 @@
                     "imageProductoRecomendado": "control_soya_plagas_recomendaciones_lepidoptero.jpg",
                     "icon": "control_soya_plagas_pegador_de_hojas_foto",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "spodoptera": {
@@ -339,17 +352,19 @@
                     "imageProductoRecomendado": "control_soya_plagas_recomendaciones_lepidoptero.jpg",
                     "icon": "control_soya_plagas_spodoptera_foto",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "trips": {
                     "title": "Trips",
-                    "subtitle": "Caliothrips phaseoli",
+                    "subtitle": "Caliotrips sp",
                     "image": "",
                     "imageCaracteristica": "control_soya_plagas_caracteristicas_trips.jpg",
                     "imageTips": "control_soya_plagas_tips_trips.jpg",
                     "imageProductoRecomendado": "control_soya_plagas_recomendaciones_trips.jpg",
                     "icon": "control_soya_plagas_trips_foto",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "acaros": {
@@ -361,6 +376,7 @@
                     "imageProductoRecomendado": "",
                     "icon": "control_soya_plagas_acaros_foto",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "chinche_alas_cafe": {
@@ -372,6 +388,7 @@
                     "imageProductoRecomendado": "control_soya_plagas_recomendaciones_chinches.jpg",
                     "icon": "control_soya_plagas_chinche_alas_cafe_foto",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "chinche_cafe_marron": {
@@ -383,6 +400,7 @@
                     "imageProductoRecomendado": "control_soya_plagas_recomendaciones_chinches.jpg",
                     "icon": "control_soya_plagas_chinche_cafe_foto",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "chinche_panza_verde": {
@@ -394,10 +412,11 @@
                     "imageProductoRecomendado": "control_soya_plagas_recomendaciones_chinches.jpg",
                     "icon": "control_soya_plagas_chinche_panza_verde_foto",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "chinche_verde": {
-                    "title": "Chinche verde",
+                    "title": "Chinche verde pequeño",
                     "subtitle": "Piezodorus guildinii",
                     "image": "",
                     "imageCaracteristica": "control_soya_plagas_caracteristicas_chinche_verde.jpg",
@@ -405,6 +424,7 @@
                     "imageProductoRecomendado": "control_soya_plagas_recomendaciones_chinches.jpg",
                     "icon": "control_soya_plagas_chinche_verde_foto",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   }
                 },
@@ -418,6 +438,7 @@
                     "imageProductoRecomendado": "control_cana_gusano_barrenador_recomendaciones.jpg",
                     "icon": "ic_control_cana_plagas_barrenador",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "picudo": {
@@ -429,19 +450,21 @@
                     "imageProductoRecomendado": "control_cana_picudo_recomendaciones.jpg",
                     "icon": "ic_control_cana_plagas_chinche_picudo",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   }
                 },
                 "maiz": {
                   "gusano_cortador": {
                     "title": "Gusano cortador",
-                    "subtitle": "Agrotis opsilon",
+                    "subtitle": "Agrotis ipsilon",
                     "image": "",
                     "imageCaracteristica": "control_maiz_gusano_cortador_caract.jpg",
                     "imageTips": "control_maiz_gusano_cortador_tips.jpg",
                     "imageProductoRecomendado": "control_maiz_gusano_cortador_recomendaciones.jpg",
                     "icon": "ic_control_maiz_gusano_cortador",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "chinche_cuernos": {
@@ -453,6 +476,7 @@
                     "imageProductoRecomendado": "control_maiz_chinche_de_los_cuernos_recomendaciones.jpg",
                     "icon": "ic_control_maiz_plagas_chinche_de_los_cuernos",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "gusano_cogollero": {
@@ -464,6 +488,7 @@
                     "imageProductoRecomendado": "control_maiz_gusano_cogollero_recomendaciones.jpg",
                     "icon": "ic_control_maiz_plagas_gusano_cogollero",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   }
                 },
@@ -477,6 +502,7 @@
                     "imageProductoRecomendado": "control_trigo_gusano_barrenador_recomendaciones.jpg",
                     "icon": "control_trigo_plagas_barrenador",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "gusano_cogollero": {
@@ -488,6 +514,7 @@
                     "imageProductoRecomendado": "control_trigo_gusano_cogollero_recomendaciones.jpg",
                     "icon": "control_trigo_plagas_gusanocogollero",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   },
                   "pulgon": {
@@ -499,6 +526,7 @@
                     "imageProductoRecomendado": "control_trigo_pulgones_recomendaciones.jpg",
                     "icon": "control_trigo_plagas_pulgon",
                     "color": "#A21F80",
+                    "version": 1,
                     "list": []
                   }
                 }
@@ -510,6 +538,7 @@
             "image": "",
             "icon": "con_estrategia",
             "color": "#94BF52",
+            "version": 1,
             "list": [
               {
                 "hierba_caliente": {
@@ -521,6 +550,7 @@
                   "imageTips": "",
                   "icon": "estrategia_malezas_hierba_caliente_foto",
                   "color": "#94BF52",
+                  "version": 1,
                   "list": []
                 },
                 "maicillo": {
@@ -532,6 +562,7 @@
                   "imageProductoRecomendado": "estrategia_malezas_recomendaciones_maicillo.jpg",
                   "icon": "estrategia_malezas_maicillo_foto",
                   "color": "#94BF52",
+                  "version": 1,
                   "list": []
                 },
                 "orizaha": {
@@ -543,6 +574,7 @@
                   "imageProductoRecomendado": "estrategia_malezas_recomendaciones_orizaha.jpg",
                   "icon": "estrategia_malezas_orizaha_foto",
                   "color": "#94BF52",
+                  "version": 1,
                   "list": []
                 },
                 "pata_gallo": {
@@ -554,6 +586,7 @@
                   "imageProductoRecomendado": "estrategia_malezas_recomendaciones_gallo.jpg",
                   "icon": "estrategia_malezas_pata_de_gallo_foto",
                   "color": "#94BF52",
+                  "version": 1,
                   "list": []
                 },
                 "santa_lucia": {
@@ -565,6 +598,7 @@
                   "imageProductoRecomendado": "estrategia_malezas_recomendaciones_santa_lucia.jpg",
                   "icon": "estrategia_malezas_santa_lucia_foto",
                   "color": "#94BF52",
+                  "version": 1,
                   "list": []
                 },
                 "plumilla": {
@@ -576,6 +610,7 @@
                   "imageProductoRecomendado": "",
                   "icon": "estrategia_malezas_plumilla_foto",
                   "color": "#94BF52",
+                  "version": 1,
                   "list": []
                 }
               }
@@ -586,6 +621,7 @@
             "image": "sumar_encuentros_minuto_campo.jpg",
             "icon": "con_nutricion",
             "color": "#F49D00",
+            "version": 1,
             "list": [
               {
                 "que_es_la_nutricion": {
@@ -593,6 +629,7 @@
                   "image": "nutricion_vegetal_que_es_la_nutricion_vegetal.jpg",
                   "icon": "",
                   "color": "#F49D00",
+                  "version": 1,
                   "list": []
                 },
                 "nutrientes": {
@@ -600,6 +637,7 @@
                   "image": "",
                   "icon": "",
                   "color": "#F49D00",
+                  "version": 1,
                   "list": [
                     {
                       "boro": {
@@ -607,6 +645,7 @@
                         "image": "sumar_conocimiento_nutricion_nutrientes_boro.jpg",
                         "icon": "",
                         "color": "#F49D00",
+                        "version": 1,
                         "list": []
                       },
                       "cobre": {
@@ -614,6 +653,7 @@
                         "image": "sumar_conocimiento_nutricion_nutrientes_cobre.jpg",
                         "icon": "",
                         "color": "#F49D00",
+                        "version": 1,
                         "list": []
                       },
                       "fosforo": {
@@ -621,6 +661,7 @@
                         "image": "sumar_conocimiento_nutricion_nutrientes_fosforo.jpg",
                         "icon": "",
                         "color": "#F49D00",
+                        "version": 1,
                         "list": []
                       },
                       "manganeso": {
@@ -628,6 +669,7 @@
                         "image": "sumar_conocimiento_nutricion_nutrientes_manganeso.jpg",
                         "icon": "",
                         "color": "#F49D00",
+                        "version": 1,
                         "list": []
                       },
                       "malibdeno": {
@@ -635,6 +677,7 @@
                         "image": "sumar_conocimiento_nutricion_nutrientes_molibdeno.jpg",
                         "icon": "",
                         "color": "#F49D00",
+                        "version": 1,
                         "list": []
                       },
                       "nitrogeno": {
@@ -642,6 +685,7 @@
                         "image": "sumar_conocimiento_nutricion_nutrientes_nitrogeno.jpg",
                         "icon": "",
                         "color": "#F49D00",
+                        "version": 1,
                         "list": []
                       },
                       "potasio": {
@@ -649,6 +693,7 @@
                         "image": "sumar_conocimiento_nutricion_nutrientes_potasio.jpg",
                         "icon": "",
                         "color": "#F49D00",
+                        "version": 1,
                         "list": []
                       },
                       "zinc": {
@@ -656,6 +701,7 @@
                         "image": "sumar_conocimiento_nutricion_nutrientes_zinc.jpg",
                         "icon": "",
                         "color": "#F49D00",
+                        "version": 1,
                         "list": []
                       }
                     }
@@ -666,6 +712,7 @@
                   "image": "nutricion_vegetal_plan_pre_forte.jpg",
                   "icon": "",
                   "color": "#F49D00",
+                  "version": 1,
                   "list": []
                 },
                 "producto_recomendado": {
@@ -673,6 +720,7 @@
                   "image": "nutricion_vegetal_productos_recomendados.jpg",
                   "icon": "",
                   "color": "#F49D00",
+                  "version": 1,
                   "list": []
                 }
               }
@@ -683,10 +731,103 @@
             "image": "sumar_conocimiento_potencia_inicial.jpg",
             "icon": "con_potencia_inicial",
             "color": "#4B4B4D",
+            "version": 1,
             "list": []
           }
         }
       ]
     }
-  }
+  },
+  "maps": [
+    {
+      "title": "Moscas blancas",
+      "subtitle": "Enfermedades",
+      "date": 1526507576764,
+      "tags": "",
+      "message": "detalle de la enfermedad",
+      "icon": "ic_mapa_ping_sanidad001.png",
+      "image": "",
+      "lat": -17.149713,
+      "lon": -62.416393,
+      "diametro": 500,
+      "url": ""
+    },{
+      "title": "Hierbas",
+      "subtitle": "Hierbas",
+      "date": 1526507576764,
+      "tags": "",
+      "message": "detalle de la hierbas",
+      "icon": "ic_mapa_ping_herbicidas001.png",
+      "image": "",
+      "lat": -17.850181,
+      "lon": -63.309084,
+      "diametro": 500,
+      "url": ""
+    },
+    {
+      "title": "Hierba Bichos",
+      "subtitle": "Bichos",
+      "date": 1526507596764,
+      "tags": "",
+      "message": "Detalle de los bichos.",
+      "icon": "ic_mapa_ping_control001.png",
+      "image": "",
+      "lat": -17.957846,
+      "lon": -63.298241,
+      "diametro": 500,
+      "url": ""
+    }
+  ],
+  "news": [
+    {
+      "title": "Moscas blancas,que molestan y mucho",
+      "subtitle": "",
+      "date": 1526507576764,
+      "tags": "Soya,Maiz,MAINTER,LANDICORP,SUMAR,SUMAR AGRO,Moscas",
+      "message": "Con el nombre vulgar de mosca blanca se conocen a insectos de la familia Aleyrodidae cuyos adultos tienen el cuerpo recubierto de una fina capa de polvo blanco de aspecto harinoso.",
+      "icon": "https://raw.githubusercontent.com/dlimachilandicorp001/sumaragro/master/noticias/img/ic_control.png",
+      "image": "https://raw.githubusercontent.com/dlimachilandicorp001/sumaragro/master/noticias/img/baner_mosca_blanca.jpg",
+      "url": "http://agrinotas.mainter.com.bo/mosca-blanca1"
+    },
+    {
+      "title": "Proteger el potencial de la soya",
+      "subtitle": "",
+      "date": 1526561933119,
+      "tags": "Soya,Maiz,MAINTER,LANDICORP,SUMAR,SUMAR AGRO,Moscas",
+      "message": "La soya tiene muy alto potencial, sólo hay que tratar de afinar la puntería, tratar de sacar el máximo rinde, y para ello, es preciso considerar a todas las enfermedades, y en especial a una de las más importantes, la Roya.",
+      "icon": "https://raw.githubusercontent.com/dlimachilandicorp001/sumaragro/master/noticias/img/ic_sanidad.PNG",
+      "image": "https://raw.githubusercontent.com/dlimachilandicorp001/sumaragro/master/noticias/img/img_news_roya_de_soya.jpg",
+      "url": "http://agrinotas.mainter.com.bo/royadelasoya"
+    },
+    {
+      "title": "Mas vale prevenir que curar",
+      "subtitle": "",
+      "date": 1526583495446,
+      "tags": "Soya,Maiz,MAINTER,LANDICORP,SUMAR,SUMAR AGRO,Moscas",
+      "message": "Además de ser el más sencillo, la prevención es el modo más barato de controlar a las malezas.",
+      "icon": "https://raw.githubusercontent.com/dlimachilandicorp001/sumaragro/master/noticias/img/ic_estrategia.PNG",
+      "image": "https://raw.githubusercontent.com/dlimachilandicorp001/sumaragro/master/noticias/img/img_news_pledge.jpg",
+      "url": "http://agrinotas.mainter.com.bo/pledge"
+    },
+    {
+      "title": "Moscas blancas,que molestan y mucho",
+      "subtitle": "",
+      "date": 1526507576764,
+      "tags": "Soya,Maiz,MAINTER,LANDICORP,SUMAR,SUMAR AGRO,Moscas",
+      "message": "Con el nombre vulgar de mosca blanca se conocen a insectos de la familia Aleyrodidae cuyos adultos tienen el cuerpo recubierto de una fina capa de polvo blanco de aspecto harinoso.",
+      "icon": "https://raw.githubusercontent.com/dlimachilandicorp001/sumaragro/master/noticias/img/ic_control.png",
+      "image": "https://raw.githubusercontent.com/dlimachilandicorp001/sumaragro/master/noticias/img/baner_mosca_blanca.jpg",
+      "url": "http://agrinotas.mainter.com.bo/mosca-blanca1"
+    },
+    {
+      "title": "AGROINNOVA",
+      "subtitle": " Una descripcion larga de lo que se vivio en agroinnova",
+      "date": 12345678,
+      "tags": "Soya, Maiz, MAINTER, AGROINNOVA,SUMAR AGRO",
+      "message": "Nada que compartir, sin palabras para poder compartir por este medio ,\n Mas informacion ",
+      "image": "https://photos.app.goo.gl/5hwZYIy2JL9n2HrP2",
+      "icon": "nameofimage.jpg",
+      "url": "http://35.166.255.101:8070/web/login"
+    }
+  ]
 }
